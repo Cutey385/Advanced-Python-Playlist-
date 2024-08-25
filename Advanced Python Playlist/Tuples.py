@@ -104,6 +104,7 @@ import timeit
 
 my_list = [23, "good", False, 456]
 my_tuple = (23, "good", False, 456)
+
 print("Size of my_list:", sys.getsizeof(my_list), "bytes")
 print("Size of my_tuple:", sys.getsizeof(my_tuple), "bytes")
 
