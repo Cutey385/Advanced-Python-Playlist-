@@ -131,13 +131,3 @@ a = frozenset([1, 2, 3, 4])    # Creates an immutable set a (frozenset) that doe
 # Frozensets support set operations like union, intersection, and difference.
 
 print("a:", a)
-
-
-
-
-
-
-
-
-
-
